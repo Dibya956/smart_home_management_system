@@ -24,6 +24,6 @@ The Smart Home Automation project is designed to create an efficient, user-frien
 To set up the system, follow these steps:
 
 - Use `npm install` to install the required dependencies at /backend/server and /start/frontend.
-- Install ngrok at C:\ngrok or use pyngrok.
+- Install ngrok at `C:\ngrok` or use `pyngrok`.
 - Compile and upload firmware.ino by connecting ESP8266 Module.
 - Run `npm start` and `npm run dev` to start frontend and backend.
