@@ -10,7 +10,7 @@
 
 The Smart Home Automation project is designed to create an efficient, user-friendly, and cost-effective system for controlling and monitoring various home appliances and environmental parameters. By integrating a web interface and ESP8266 module, users can remotely access and control their home devices, ensuring convenience and energy conservation.
 
-## Components Used🔧🏻
+## Components Used🔧🖥️
 
 - Arduino Uno: A microcontroller board based on the ATmega328P, used as the central processing unit for the system.
 - ESP8266: A low-cost Wi-Fi module that enables wireless communication and remote access to the system.
